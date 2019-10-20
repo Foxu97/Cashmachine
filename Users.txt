@@ -1,0 +1,6 @@
+Kamil: 70000
+Magda: 150
+Krzysiu: 10
+Bogdan: 175
+Monika: 5
+Szymon: 1470
